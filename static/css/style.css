@@ -1,0 +1,13 @@
+.jumbotron {
+    background-image: url("https://cdn.shopify.com/s/files/1/0003/3406/9819/files/best-lab-glassware-brands.jpg?v=1577403508");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+.panel {
+    box-shadow: 10px 5px 5px black;
+}
+
+body {
+    background-color: rgb(252, 253, 253);
+}
