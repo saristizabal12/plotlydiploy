@@ -27,7 +27,8 @@ Deliverable 3: Create a Gauge Chart
 
 Deliverable 4:
 
-Below is a picture of our dropdown menu.
+Below is a picture of our dropdown menu for individual ID's
+
 ![image](https://user-images.githubusercontent.com/100005305/195506124-ec23e14a-be19-4798-aea5-7eb416de27bc.png)
 
 
