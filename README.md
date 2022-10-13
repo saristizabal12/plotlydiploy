@@ -25,5 +25,9 @@ Deliverable 3: Create a Gauge Chart
 
 ![image](https://user-images.githubusercontent.com/100005305/195506061-aa7b9a7a-c0db-4b41-9ba5-d6c7e12bbf60.png)
 
+Deliverable 4:
+
+Below is a picture of our dropdown menu.
+![image](https://user-images.githubusercontent.com/100005305/195506124-ec23e14a-be19-4798-aea5-7eb416de27bc.png)
 
 
